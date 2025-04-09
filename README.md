@@ -35,3 +35,7 @@ Open **Command Prompt / Terminal** and run:
 ```bash
 git clone https://github.com/bjg2003/Currency_Converter.git
 cd Currency_Converter
+```
+
+## 📸 Screenshot 
+![Screenshot 2025-03-02 130921](https://github.com/user-attachments/assets/d99c1ca8-7135-4a34-9fc8-9f9aedc93012)
